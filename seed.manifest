@@ -1,4 +1,7 @@
+core 12603
+usbmode-switch 27
 pc 104
+easy-openvpn 5
 pc-kernel 873
 core18 2284
 snapd 14549
