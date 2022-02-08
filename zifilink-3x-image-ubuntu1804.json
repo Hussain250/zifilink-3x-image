@@ -9,6 +9,6 @@
   "base": "core18",
   "gadget": "pc=18",
   "kernel": "pc-kernel=18",
-  "required-snaps": ["core", "usbmode-switch","easy-openvpn"],
+  "required-snaps": ["core", "usbmode-switch","easy-openvpn","fast"],
   "timestamp": "2022-02-02T10:43:16+00:00"
 }
